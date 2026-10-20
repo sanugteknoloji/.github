@@ -28,7 +28,7 @@ Unity, C#, TypeScript, React, PostgreSQL, Supabase, Cloudflare, GIS and map tile
 
 ## Contact
 
-Website: [sanug.com.tr](https://sanug.com.tr)
-Email: webpost@sanug.com.tr
-LinkedIn: [Sanug Teknoloji](https://www.linkedin.com/company/sanug)
-Hugging Face: [huggingface.co/sanug](https://huggingface.co/sanug)
+- Website: [sanug.com.tr](https://sanug.com.tr)
+- Email: webpost@sanug.com.tr
+- LinkedIn: [Sanug Teknoloji](https://www.linkedin.com/company/sanug)
+- Hugging Face: [huggingface.co/sanug](https://huggingface.co/sanug)
