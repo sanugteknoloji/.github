@@ -26,9 +26,15 @@ Web3 development and consulting across smart contracts, NFT, DeFi, DAO and GameF
 
 Unity, C#, TypeScript, React, PostgreSQL, Supabase, Cloudflare, GIS and map tile pipelines, Solidity and smart contract tooling.
 
+## Open Data
+
+We publish open datasets on Hugging Face, compiled exclusively from openly licensed sources and documented with detailed dataset cards.
+
+- [Türkiye Cultural Heritage Sites](https://huggingface.co/datasets/sanugteknoloji/turkiye-cultural-heritage-sites): 23,577 archaeological sites, ancient cities, ruins, historic buildings and museums across all 81 provinces of Türkiye, with source identifiers from Wikidata, OpenStreetMap and Pleiades. Licensed under ODbL 1.0.
+
 ## Contact
 
 - Website: [sanug.com.tr](https://sanug.com.tr)
 - Email: webpost@sanug.com.tr
 - LinkedIn: [Sanug Teknoloji](https://www.linkedin.com/company/sanug)
-- Hugging Face: [huggingface.co/sanug](https://huggingface.co/sanug)
+- Hugging Face: [huggingface.co/sanugteknoloji](https://huggingface.co/sanugteknoloji)
